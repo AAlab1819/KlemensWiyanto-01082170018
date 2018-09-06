@@ -9,5 +9,4 @@ Weekly submission for lab AA TIF UPH 2018/2019 by Klemens
 
 1 Blue Ball needs 3 Blue Crystal
 
-After that, you need to make an equation to find the rest of crystal that Grisha needs
-for me... i 
+After that, you need to make an equation to find the rest of crystal that Grisha needs.
